@@ -24,7 +24,7 @@ A simple Python-based **ARP network scanner** that discovers devices on your loc
 ## 📂 Installation
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/network_scanner.git
+git clone https://github.com/yAyushKoul24/network_scanner.git
 cd network_scanner
 
 # (Optional) Create a virtual environment
