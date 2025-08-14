@@ -1,6 +1,6 @@
 # 🖧 ARP Network Scanner
 
-A simple Python-based **ARP network scanner** that discovers devices on your local network by sending broadcast requests and collecting replies.
+A Python-based **ARP network scanner** that discovers devices on your local network by sending broadcast requests and collecting replies.
 
 ---
 
