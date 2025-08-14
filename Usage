@@ -1,0 +1,11 @@
+1) Find your network range
+
+Check your IP and subnet mask. If your IP is 192.168.1.34 with mask 255.255.255.0, use 192.168.1.0/24.
+
+2) Run the scanner
+
+Linux/macOS: sudo python3 src/network_scanner.py -t 192.168.1.0/24
+
+3) Optional flags: --iface wlan0        # choose interface
+--timeout 4          # wait longer for responses
+--json               # output in JSON format
