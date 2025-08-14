@@ -1,4 +1,4 @@
-# 🖧 ARP Network Scanner (Beginner Python Project)
+# 🖧 ARP Network Scanner
 
 A simple Python-based **ARP network scanner** that discovers devices on your local network by sending broadcast requests and collecting replies.
 
@@ -27,7 +27,7 @@ A simple Python-based **ARP network scanner** that discovers devices on your loc
 git clone https://github.com/yAyushKoul24/network_scanner.git
 cd network_scanner
 
-# (Optional) Create a virtual environment
+# Create a virtual environment
 python3 -m venv .venv
 # Activate:
 # Windows PowerShell:
